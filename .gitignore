@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules/
+
+# Ignore SQLite DB lock file (optional)
+*.db-journal
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore logs (optional)
+*.log
